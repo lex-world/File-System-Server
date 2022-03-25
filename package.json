@@ -1,0 +1,14 @@
+{
+  "name": "tbs-file-server",
+  "version": "1.0.0",
+  "description": "File Server for The Boring School",
+  "main": "index.js",
+  "author": "Lex World, Domsan Lex, Laxman Rai",
+  "license": "Unlicensed",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "node-static": "^0.7.11"
+  }
+}
